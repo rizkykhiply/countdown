@@ -15,6 +15,8 @@ const Home = (): ReactElement => {
       </Head>
 
       <main className="relative flex flex-col items-center justify-center bg-theme_veryDarkMostlyBlackBlue min-h-screen bg-stars">
+        <img src="/images/Transparan.png" alt="image description">
+          </img>
         <h1 className="text-white text-xl lg:text-2xl text-center tracking-widest pt-20 lg:pt-0 pb-32">
           WE&rsquo;RE LAUNCHING SOON
         </h1>
